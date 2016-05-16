@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/bodyno/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/bodyno/webpack-starter-kit#readme"
+  "homepage": "https://github.com/bodyno/webpack-starter-kit#readme",
+  "devDependencies": {
+    "babel-core": "^6.8.0",
+    "babel-loader": "^6.2.4",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0"
+  }
 }
