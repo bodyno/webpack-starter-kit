@@ -1,0 +1,19 @@
+{
+  "name": "webpack-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodyno/webpack-starter-kit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodyno/webpack-starter-kit/issues"
+  },
+  "homepage": "https://github.com/bodyno/webpack-starter-kit#readme"
+}
